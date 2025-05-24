@@ -1,2 +1,2 @@
 # learn-javascript
-learn javascript 
+javascript bootcamp 
